@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PuantParty/static/css/main.15b39600.css",
+    "main.js": "/PuantParty/static/js/main.b3db945d.js",
+    "static/js/453.287d60be.chunk.js": "/PuantParty/static/js/453.287d60be.chunk.js",
+    "index.html": "/PuantParty/index.html",
+    "main.15b39600.css.map": "/PuantParty/static/css/main.15b39600.css.map",
+    "main.b3db945d.js.map": "/PuantParty/static/js/main.b3db945d.js.map",
+    "453.287d60be.chunk.js.map": "/PuantParty/static/js/453.287d60be.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15b39600.css",
+    "static/js/main.b3db945d.js"
+  ]
+}
